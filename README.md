@@ -4,11 +4,35 @@
 ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge&logo=oracle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-3.8+-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-<img width="584" height="499" alt="tela-inicial" src="https://github.com/user-attachments/assets/d83bfb16-3abd-415b-a51a-5dd48015a00a" />
+# Telas do Projeto
 
-<img width="874" height="1010" alt="tela-personagem" src="https://github.com/user-attachments/assets/88f47092-7165-4728-a186-b0df00d6c9d1" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d83bfb16-3abd-415b-a51a-5dd48015a00a" alt="tela-inicial" width="500" />
+</p>
 
-<img width="986" height="696" alt="tela principal" src="https://github.com/user-attachments/assets/bd437b7d-1125-47df-beaa-54bcc8529f3d" />
+<p align="center">
+  <strong>Tela Inicial</strong>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/88f47092-7165-4728-a186-b0df00d6c9d1" alt="tela-personagem" width="500" />
+</p>
+
+<p align="center">
+  <strong>Tela Personagem</strong>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd437b7d-1125-47df-beaa-54bcc8529f3d" alt="tela principal" width="500" />
+</p>
+
+<p align="center">
+  <strong>Tela Principal</strong>
+</p>
 
 
 **UNDEAD RISING** é um jogo de sobrevivência e estratégia em turnos desenvolvido em Java com a biblioteca Swing. Criado como um projeto da disciplina de Programação Orientada a Objetos, o jogo desafia o jogador a sobreviver por 7 dias em um mundo devastado por um apocalipse zumbi. Gerencie recursos, explore locais perigosos, combata hordas de mortos-vivos e lute pela sua vida até o confronto final.
