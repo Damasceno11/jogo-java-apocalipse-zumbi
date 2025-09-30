@@ -5,18 +5,16 @@
 ![Maven](https://img.shields.io/badge/Maven-3.8+-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 <p align="center">
-  <img src="<img width="584" height="499" alt="tela-inicial" src="https://github.com/user-attachments/assets/726cc870-c16e-4466-bbcb-d8b5c2f100d5" />
-"/>
+  img width="584" height="499" alt="tela-inicial" src="https://github.com/user-attachments/assets/726cc870-c16e-4466-bbcb-d8b5c2f100d5"
 </p>
 
 <p align="center">
-  <img src="<img width="874" height="1010" alt="tela-personagem" src="https://github.com/user-attachments/assets/8eb5547a-f01c-4fe0-87ed-9fc4e350aa1b" />
-"/>
+  img width="874" height="1010" alt="tela-personagem" src="https://github.com/user-attachments/assets/8eb5547a-f01c-4fe0-87ed-9fc4e350aa1b"
 </p>
 
 <p align="center">
-  <img src="<img width="986" height="696" alt="tela principal" src="https://github.com/user-attachments/assets/70ed120b-3b81-4158-bfab-6e09e05ca095" />
-/>
+  img width="986" height="696" alt="tela principal" src="https://github.com/user-attachments/assets/70ed120b-3b81-4158-bfab-6e09e05ca095
+
 </p>
 
 **UNDEAD RISING** é um jogo de sobrevivência e estratégia em turnos desenvolvido em Java com a biblioteca Swing. Criado como um projeto da disciplina de Programação Orientada a Objetos, o jogo desafia o jogador a sobreviver por 7 dias em um mundo devastado por um apocalipse zumbi. Gerencie recursos, explore locais perigosos, combata hordas de mortos-vivos e lute pela sua vida até o confronto final.
